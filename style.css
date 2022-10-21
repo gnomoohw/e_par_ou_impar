@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-left: 15px;
+    margin-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+.btn {
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+p {
+    margin-top: 20px;
+    margin-left: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
